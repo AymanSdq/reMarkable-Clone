@@ -11,14 +11,14 @@ function HeroSection() {
 
             <div className='lg:w-1/2 flex items-center justify-start'>
                 
-                <div className='w-[50%] flex flex-col gap-10'>
+                <div className=' pr-16 flex flex-col gap-10'>
 
                     <div className='flex flex-col text-white'>
                         <h1 className='sansita text-7xl'>reMarkable 2</h1>
                         <p className='text-3xl italic'>thenext genration paper tablet</p>
                     </div>
 
-                    <p className='text-white'>Replace your notebooks and printed documents 
+                    <p className='text-white w-[500px]'>Replace your notebooks and printed documents 
                     with the only tablet that feels like paper.</p>
 
                     {/* Watch and shop buttons */}

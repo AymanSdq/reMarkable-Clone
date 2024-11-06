@@ -10,7 +10,7 @@ function InformationRem() {
 
             <div className='w-[80%] flex'>
                 {/*  */}
-                <div className='w-[60%] flex'>
+                <div className='w-[60%] pt-16 flex'>
 
                     <div className='w-1/2 flex flex-col items-center'>
 
@@ -65,6 +65,9 @@ function InformationRem() {
                 </div>
             </div>
 
+            <div className='w-1/2 flex justify-center items-center'>
+                <iframe width="900" height="500" src="https://www.youtube.com/embed/SWY_bwFMxro?si=kMMvnmYDksJiT7Qk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
         </section>
     )
 
