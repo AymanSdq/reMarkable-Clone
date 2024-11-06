@@ -3,10 +3,12 @@
 
 .sansita{
     font-family: "Sansita", sans-serif;
+    
 }
 
 h1{
     font-family: "Sansita", sans-serif;
+    font-weight: bold;
 }
 
 *{
