@@ -14,3 +14,9 @@ h1{
 *{
     font-family: "Poppins", sans-serif;
 }
+
+.techno {
+    background-image: url('/public/backgroundTech.png');
+    background-position: center;
+    background-size: cover;
+}
