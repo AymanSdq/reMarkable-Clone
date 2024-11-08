@@ -10,6 +10,7 @@ import Newsletter from './components/Newsletter'
 import NoteTaking from './components/NoteTaking'
 import RemarkvsTablette from './components/RemarkvsTablette'
 import SmallSection from './components/SmallSection'
+import Thinproduct from './components/Thinproduct'
 
 function App() {
   
@@ -27,7 +28,8 @@ function App() {
           <ConnectSection />
           <FocusSection />
           <Newsletter />
-          <RemarkvsTablette />
+          <RemarkvsTablette /> {/* // TODO : Finish the vs  */}
+          <Thinproduct />
 
       </main>
   )
