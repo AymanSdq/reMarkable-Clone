@@ -62,6 +62,8 @@ function EyeFriendly() {
                             <p className='sansita'>Any web page, simplified and ready to read on your paper tablet <br />
                             with our Google Chrome plug-in, Read on reMarkable.</p>
 
+                            
+
                         </div>
                     </div>
 

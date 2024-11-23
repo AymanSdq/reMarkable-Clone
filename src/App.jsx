@@ -9,6 +9,7 @@ import InformationRem from './components/InformationRem'
 import Newsletter from './components/Newsletter'
 import NoteTaking from './components/NoteTaking'
 import RemarkvsTablette from './components/RemarkvsTablette'
+import SafeRemark from './components/SafeRemark'
 import SmallSection from './components/SmallSection'
 import Thinproduct from './components/Thinproduct'
 
@@ -30,7 +31,7 @@ function App() {
           <Newsletter />
           <RemarkvsTablette /> {/* // TODO : Finish the vs  */}
           <Thinproduct />
-
+          <SafeRemark />
       </main>
   )
 }
