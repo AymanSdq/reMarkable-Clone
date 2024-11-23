@@ -43,6 +43,8 @@ function SafeRemark() {
                             <p className='text-center mt-3'>34 SEC</p>
                             <p className='my-4 pl-16'>Built-in magnets mean you can simply <br />snap your reMarkable in place</p>
                             <p className=' pl-16'>Book Folio is available in a fine leather  <br /> finish that ages beautifully</p>
+
+                            {/* // TODO : Need to add an image slider here  */}
                         </div>
 
 
