@@ -8,6 +8,7 @@ import HeroSection from './components/HeroSection'
 import InformationRem from './components/InformationRem'
 import Newsletter from './components/Newsletter'
 import NoteTaking from './components/NoteTaking'
+import PensreMark from './components/PensreMark'
 import RemarkvsTablette from './components/RemarkvsTablette'
 import SafeRemark from './components/SafeRemark'
 import SmallSection from './components/SmallSection'
@@ -32,6 +33,7 @@ function App() {
           <RemarkvsTablette /> {/* // TODO : Finish the vs  */}
           <Thinproduct />
           <SafeRemark />
+          <PensreMark />
       </main>
   )
 }
